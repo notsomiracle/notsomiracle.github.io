@@ -1,0 +1,153 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Calibri","Arial", sans-serif;
+}
+
+.nav {
+    background-color:black;
+    background: rgba(0,0,0,0.75);
+    color: white;
+    list-style: none;
+    text-align: right;
+    padding: 30px 30px 30px 0;
+    margin-top: -10px;
+}
+
+.nav > li {
+    display: inline-block;
+    padding: 10px 50px 0 25px;
+    font-size: 12px;
+}
+
+.nav > li > a {
+    text-decoration: none;
+    color: white;
+}
+
+.nav > li > a:hover {
+    color:#D4D4D4;
+}
+.logo {
+    float: left;
+    opacity: 1;
+    margin-top: -3px;
+    padding-left: 50px;
+    font-weight: bold;
+}
+
+}
+.logo > a {
+    text-decoration: none;
+    color: white;
+}
+
+.logo > a:hover {
+    opacity: 0.8;
+}
+
+.welcome {
+    color:white;
+    border: 1px solid white;
+    opacity: .9;
+    padding: 35px 40px 30px 40px;
+    margin: 70px 650px 70px 90px;
+    line-height: 25.65px;
+}
+.hometown {
+    margin: 80px 650px 80px 50px;
+    padding: 30px 45px 40px 45px;
+    color: white;
+    background-color: black;
+    background: rgba(0,0,0,0.8);
+    opacity: 0.9;
+    font-size: 16px;
+    line-height: 32px;
+}
+.residence {
+    background-image:url(whitecathedral.jpg);
+    background-repeat:no-repeat;
+    background-size: 106%;
+    padding: 20px 20px 20px 20px;
+}
+.residence2 {
+    color:white;
+    background-color:black;
+    background : rgba(0,0,0,0.8);
+    border: 0px solid white;
+    margin: 70px 65px 70px 690px;
+    padding: 30px 40px 40px 40px;
+    line-height: 34px;
+    font-size: 15px;
+    opacity: .9;
+    text-align: center;
+}
+
+.music {
+    color:black;
+    font-size:16px;
+    line-height:34px;
+    background-image:url(guitar.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 100px 300px 100px 300px;
+    text-align: center;
+    background-blend-mode: darken;
+}
+
+.music2 {
+    background-color:#F0EEEE;
+    margin: 60px 0px 40px 0px;
+    padding: 30px 40px 40px 40px;
+    opacity: 0.9;
+    border-radius:23px;
+}
+
+.photography {
+    color:white;
+    font-size:15px;
+    line-height:34px;
+    background-image:url(sheep2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 100px 300px 110px 300px;
+    text-align: center;
+    background-blend-mode: darken;
+}
+
+.photography2 {
+    background-color:black;
+    margin: 0px 0px 0px 0px;
+    padding: 30px 40px 40px 40px;
+    background: rgba(0,0,0,0.9);
+    opacity: .9;
+    border-radius:23px;
+}
+
+.contact {
+    margin: 80px 750px 60px 90px;
+    border: 1px solid white;
+    padding: 45px 20px 45px 50px;
+    
+}
+
+.contact2 {
+    color:white;
+    line-height:50px;
+}
+
+.logos {
+    padding: 37px 20px 0px 20px;
+}
+
+#ig:hover {
+    opacity:.8;
+}
+
+#fb:hover {
+    opacity:.8;
+}
+
+#fl:hover {
+    opacity:.8;
+}
